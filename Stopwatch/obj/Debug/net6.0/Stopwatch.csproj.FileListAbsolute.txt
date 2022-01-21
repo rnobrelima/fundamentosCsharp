@@ -1,0 +1,15 @@
+C:\projects\fundamentosCsharp\Stopwatch\bin\Debug\net6.0\Stopwatch.exe
+C:\projects\fundamentosCsharp\Stopwatch\bin\Debug\net6.0\Stopwatch.deps.json
+C:\projects\fundamentosCsharp\Stopwatch\bin\Debug\net6.0\Stopwatch.runtimeconfig.json
+C:\projects\fundamentosCsharp\Stopwatch\bin\Debug\net6.0\Stopwatch.dll
+C:\projects\fundamentosCsharp\Stopwatch\bin\Debug\net6.0\ref\Stopwatch.dll
+C:\projects\fundamentosCsharp\Stopwatch\bin\Debug\net6.0\Stopwatch.pdb
+C:\projects\fundamentosCsharp\Stopwatch\obj\Debug\net6.0\Stopwatch.csproj.AssemblyReference.cache
+C:\projects\fundamentosCsharp\Stopwatch\obj\Debug\net6.0\Stopwatch.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\fundamentosCsharp\Stopwatch\obj\Debug\net6.0\Stopwatch.AssemblyInfoInputs.cache
+C:\projects\fundamentosCsharp\Stopwatch\obj\Debug\net6.0\Stopwatch.AssemblyInfo.cs
+C:\projects\fundamentosCsharp\Stopwatch\obj\Debug\net6.0\Stopwatch.csproj.CoreCompileInputs.cache
+C:\projects\fundamentosCsharp\Stopwatch\obj\Debug\net6.0\Stopwatch.dll
+C:\projects\fundamentosCsharp\Stopwatch\obj\Debug\net6.0\ref\Stopwatch.dll
+C:\projects\fundamentosCsharp\Stopwatch\obj\Debug\net6.0\Stopwatch.pdb
+C:\projects\fundamentosCsharp\Stopwatch\obj\Debug\net6.0\Stopwatch.genruntimeconfig.cache
